@@ -6,3 +6,7 @@ Answer: Keep version history and enable collaboration with others
 
 Answer: Could be very useful in banking to analyze data in order to predict trends.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: They are both 'merge' methods but rebasing overwrites a branch's history 
+which merging maintains both branch histories'.
