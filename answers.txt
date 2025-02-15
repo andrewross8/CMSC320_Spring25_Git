@@ -1,0 +1,3 @@
+2: What field could data science be applied to? Give an Example.
+
+Answer: Could be very useful in banking to analyze data in order to predict trends.
