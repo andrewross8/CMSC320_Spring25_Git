@@ -10,3 +10,7 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: They are both 'merge' methods but rebasing overwrites a branch's history 
 which merging maintains both branch histories'.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Graduating
